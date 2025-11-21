@@ -2,6 +2,14 @@ fastapi==0.115.0
 uvicorn[standard]==0.30.0
 pydantic==2.9.0
 python-dotenv==1.0.0
-torch==2.1.0
+
+# PyTorch - versión compatible
+torch>=2.0.0
 transformers==4.38.0
 huggingface-hub==0.20.0
+
+# Otras dependencias
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.0
+python-multipart==0.0.9
