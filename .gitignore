@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+SpamVision/
+*.pyc
+__pycache__/
+
+# Modelos de ML (MUY IMPORTANTE)
+ml_artifacts/beto_finetuned/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Variables de entorno
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporales
+*.tmp
+temp/
