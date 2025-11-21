@@ -106,13 +106,21 @@ python download_model.py
 **Estructura esperada:**
 
 ml_artifacts/
+
 ├── diccionario.txt ✅ (incluido en repo)
+
 └── beto_finetuned/ ⚠️ (descargar por separado)
+
 ├── config.json
+
 ├── pytorch_model.bin (~500 MB)
+
 ├── tokenizer_config.json
+
 ├── special_tokens_map.json
+
 └── vocab.txt
+
 ## 📱 Aplicación Móvil
 
 Esta API está diseñada para ser consumida por:
