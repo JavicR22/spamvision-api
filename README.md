@@ -99,9 +99,9 @@ pip install -r requirements.txt
 
 El modelo fine-tuned no está en el repositorio por su tamaño (~500 MB).
 
-**Opción A: Desde Hugging Face (Recomendado)**
+**🤗 Modelo disponible en Hugging Face:**
+👉 [https://huggingface.co/JavicR22/SpamVision](https://huggingface.co/JavicR22/SpamVision)
 
-python download_model.py
 
 **Estructura esperada:**
 
